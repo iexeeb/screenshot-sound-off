@@ -1,0 +1,6 @@
+id=screenshot-sound-off
+name=screenshot-sound-off
+version=v1.0
+versionCode=1
+author=iexeeb
+description=/system/product/media/audio/ui/camera_click.oggを空ファイルに置き換える
