@@ -1,1 +1,1 @@
-setprop audio.camerasound.force false
+resetprop audio.camerasound.force false
